@@ -1,15 +1,2 @@
-## Vertical Slides
+## Education
 
-Or
-
---
-
-Even
-
---
-
-Vertical
-
---
-
-Slides

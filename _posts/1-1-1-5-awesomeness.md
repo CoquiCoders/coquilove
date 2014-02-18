@@ -1,5 +1,5 @@
-# Backgrounds
+# Awesomeness
 
-{% background green %} 
+{% background green %}
 
-Or use different backgrounds.
+Use this slide to tell what you love about Puerto Rico
