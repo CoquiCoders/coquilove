@@ -26,6 +26,7 @@ body {
   font-size: 36px;
   font-weight: normal;
   letter-spacing: -0.02em;
+  background: url('img/buildings-03.png') no-repeat bottom center;
   color: #333333; }
 
 ::selection {

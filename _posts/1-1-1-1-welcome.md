@@ -1,12 +1,4 @@
-## Git / GitHub / GitHub Pages
+## Coqui Love
 
-Maksim Pecherskiy
-
-@MrMaksimize
-
-http://mrmaksimize.com | http://coquicoders.org
-
-Code For America
-
-http://codeforamerica.org
+![Coqui](img/coqui.jpg)
 
